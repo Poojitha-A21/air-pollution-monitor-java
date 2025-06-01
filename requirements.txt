@@ -1,0 +1,3 @@
+- Java 8+
+- Internet connection (for API mode)
+- org.json library (for JSON parsing)
